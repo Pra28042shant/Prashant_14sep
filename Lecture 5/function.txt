@@ -1,0 +1,7 @@
+Function :
+
+	Function is block of code that we can use it again and again
+
+1)Function declration
+2)Function defination
+3)Function calling
