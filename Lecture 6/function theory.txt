@@ -1,0 +1,4 @@
+Types of User defnrd function
+1)Function without parameters and without return type
+2)Function with parameters and without return type
+3)Function with parameters and with return type
